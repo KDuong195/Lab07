@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Exercise06",
+            "request": "launch",
+            "mainClass": "CHAPTER6.Exercise06",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8",
+            "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+        },
+        {
+            "type": "java",
+            "name": "Exercise07",
+            "request": "launch",
+            "mainClass": "CHAPTER6.Exercise07",
+            "console": "integratedTerminal",
+            "encoding": "UTF-8",
+            "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+        }
+    ]
+}
